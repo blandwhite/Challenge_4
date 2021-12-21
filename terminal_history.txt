@@ -1,0 +1,17 @@
+    1  cd Desktop/
+    2  git clonehttps://github.com/blandwhite/Challenge_4.git
+    3  git clone https://github.com/blandwhite/Challenge_4.git
+    4  ls
+    5  cd Challenge_4
+    6  mkdir Images
+    7  ls
+    8  cd images
+    9  ls
+   10  cd ..
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit -m "Fleshed out README file and began analysis in notebook file"
+   15  git push
+   16  history 20
+   17  history 20 > terminal_history.txt

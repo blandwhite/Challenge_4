@@ -49,6 +49,10 @@ prior to running these libraries, install them from the command line:
 
 #### Our Jupyter Notebook will be useful in answering the following questions:
   - Do any of the four fund portfolios outperform the S&P 500 index?
+  **Based on the cumulative return data and the visualization, NONE of the four fund portfolios outperforms the S&P 500 Index.**
+  
+  ![](Images/Question_1_Cumulative_Returns_numbers.png)
+  ![](Images/Question_1_Cumulative_Returns.png)
  
  - Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
  
