@@ -59,7 +59,7 @@ prior to running these libraries, install them from the command line:
  - Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
  **Answer:  Based on the box plot visualization of the four funds, Berkshire Hathaway was most volatile, and Tiger Global Mgt was least volatile.** 
  
- ![](Images/2_Fund_Box_Plots.png)
+ ![](Images/2_Fund_Box_Plots.PNG)
  
  ---
  - Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
