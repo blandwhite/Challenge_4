@@ -15,3 +15,28 @@
    15  git push
    16  history 20
    17  history 20 > terminal_history.txt
+    1  PWD
+    2  cd Desktop/Challenge_4/
+    3  ls
+    4  git status
+    5  cd Starter_Code/
+    6  ls
+    7  mv Untitled.ipynb ../../api_playlab.ipynb
+    8  ls
+    9  cd ..
+   10  ls
+   11  cd ..
+   12  ls
+   13  git status
+   14  cd Challenge_4/
+   15  git status
+   16  git status
+   17  git add . 
+   18  git commit -m "Updating starter code and README"
+   19  git push
+   20  git status
+   21  git status
+   22  git add . 
+   23  git commit -m "Challenge completed"
+   24  history 25
+   25  history 25 >> terminal_history.txt
