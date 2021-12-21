@@ -53,20 +53,36 @@ prior to running these libraries, install them from the command line:
   
   ![](Images/Question_1_Cumulative_Returns_numbers.png)
   ![](Images/Question_1_Cumulative_Returns.png)
- 
+ ---
  - Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
+ **Answer:  Based on the box plot visualization of the four funds, Berkshire Hathaway was most volatile, and Tiger Global Mgt was least volatile.** 
  
+ ![](Images/2_Fund_Box_Plots.png)
+ 
+ ---
  - Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
+ **Based on the annualized standard deviation, NONE of the portfolios pose more risk than the S&P 500.**
 
  - Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
+**Yes, it does appear that the risk of each portfolio increases at the same time that the risk of the S&P increases.**
 
  - Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
+ **Berkshire Hathaway poses most risk overall, although there are time periods where other funds have a higher rolling standard deviation and are more risky.**
+ 
+ ---
  
  - Which of the four portfolios offers the best risk-return profile? Which offers the worst?
+ **Answer: Berkshire Hathaway offers the best risk-return profile; Paulson offers the worst.**
+ ![](Images/Sharpe_Ratios.png)
  
+ ---
  - Which of the two portfolios seem more sensitive to movements in the S&P 500?
+ **Compared to movement of the S&P 500, Berkshire Hathaway has an average beta of 0.221, and Tiger Global's is only 0.031. Berkshire Hathaway is more sensitive.**
 
  - Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+ **Based on higher Sharpe ratio, I would recommend including the Berkshire Hathaway Inc fund. However, a more conservative approach could select Tiger Global since it is not as sensitive to movement in the S&P 500 as seen below. Particularly if the portfolio is for clients' retirement funds, perhaps Tiger Global would be the wiser choice.**
+ 
+ ![](Images/beta_comparison.png)
  
 ---
 ### Contributors
